@@ -11,10 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{AD1E0F9A-E89A-4186-ABC6-C4C7243D6F05}</ProjectGuid>
+    <ProjectGuid>{6B07AA23-BA9F-4289-8D67-EBFE2AFC9F32}</ProjectGuid>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <Keyword>ManagedCProj</Keyword>
-    <RootNamespace>Project1</RootNamespace>
+    <RootNamespace>DelgadosTacos</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
