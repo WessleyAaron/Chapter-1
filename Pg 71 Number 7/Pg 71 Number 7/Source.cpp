@@ -5,9 +5,9 @@
 #include <iostream>
 #include <string>
 
-double pounds_Rate = 0.6318;
-double pesos_Rate = 12.8863;
-double yen_Rate = 82.34;
+double pounds_Rate = 0.71;
+double pesos_Rate = 18.21;
+double yen_Rate = 106.52;
 
 int main()
 {
